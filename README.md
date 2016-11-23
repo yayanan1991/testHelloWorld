@@ -1,2 +1,0 @@
-# testHelloWorld
-redhat_testhelloworld
