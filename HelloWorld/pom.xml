@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cn.liyanan</groupId>
+  <artifactId>HelloWorld</artifactId>
+  <packaging>war</packaging>
+</project>
